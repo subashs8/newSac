@@ -139,7 +139,7 @@ h4,
 h5,
 h6 {
 	font-family: "Rufina", serif;
-	color: #000a2d;
+	color: #4298d4;
 	margin-top: 0px;
 	font-style: normal;
 	font-weight: 500;
@@ -148,7 +148,7 @@ h6 {
 
 p {
 	font-family: "Rubik", sans-serif;
-	color: #10285d;
+	color: #192542;
 	font-size: 16px;
 	line-height: 30px;
 	margin-bottom: 15px;
@@ -2344,7 +2344,7 @@ hr {
 		padding-bottom: 0
 	}
 }
-/*
+
 .footer-padding {
 	padding-top: 150px;
 	padding-bottom: 136px
@@ -2378,9 +2378,9 @@ hr {
 	}
 }
 
-*/
 
-  
+
+/* OLD FOOTER
 .footer{
 	padding:40px 20px;
 	flex-grow:0;
@@ -2433,6 +2433,8 @@ hr {
 }
 }
 
+*/
+
 @media (max-width: 575px) {
 	.section-tittle {
 		margin-bottom: 50px
@@ -2448,7 +2450,7 @@ hr {
 .section-tittle h2 {
 	font-size: 48px;
 	display: block;
-	color: #000a2d;
+	color: #4298d4;
 	font-weight: 600
 }
 
@@ -2750,7 +2752,7 @@ hr {
 	font-size: 70px;
 	font-weight: 700;
 	margin-bottom: 14px;
-	color: #002d5b;
+	color: #192542;
 	line-height: 1.2;
 	text-transform: capitalize;
 	margin-bottom: 29px
@@ -2892,7 +2894,7 @@ hr {
 
 .about-area .about-caption h3 {
 	font-size: 30px;
-	color: #000a2d;
+	color: #4298d4;
 	font-weight: 700;
 	margin-bottom: 35px;
 	line-height: 1.5
@@ -2911,7 +2913,7 @@ hr {
 
 .about-area .about-caption2 h3 {
 	font-size: 40px;
-	color: #000a2d;
+	color: #4298d4;
 	font-weight: 700;
 	margin-bottom: 35px;
 	line-height: 1.5
@@ -2948,7 +2950,7 @@ hr {
 }
 
 .about-area .about-caption2 .send-cv a {
-	color: #000a2d;
+	color: #4298d4;
 	font-size: 35px;
 	font-weight: 500;
 	margin-bottom: 10px;
@@ -3003,7 +3005,7 @@ hr {
 .about-me .about-me-caption h2 {
 	font-size: 48px;
 	display: block;
-	color: #000a2d;
+	color: #4298d4;
 	font-weight: 600;
 	margin-bottom: 40px
 }
@@ -3223,7 +3225,7 @@ hr {
 .contact-info-area .contact-caption h3 {
 	font-size: 48px;
 	display: block;
-	color: #000a2d;
+	color: #4298d4;
 	font-weight: 600;
 	margin-bottom: 40px
 }
@@ -3479,7 +3481,7 @@ hr {
 }
 
 
-/*
+
 .footer-area {
 	background: #080827
 }
@@ -3537,7 +3539,10 @@ hr {
 .footer-area .footer-bottom .footer-copy-right p a {
 	color: #ec5b53
 }
-*/
+
+
+
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.footer-area .footer-social {
 		float: left;
@@ -3573,6 +3578,7 @@ hr {
 .footer-area .footer-social a:hover {
 	color: #fff
 }
+*/
 
 
 .hero-caption span {
@@ -4897,7 +4903,7 @@ hr {
 }
 
 .contact-info .media-body h3 a:hover {
-	color: #1f2b7b
+	color: #4298d4
 }
 
 .contact-info .media-body p {
@@ -5004,7 +5010,7 @@ hr {
 }
 
 .contact-section .btn_2:hover {
-	background-color: #1f2b7b
+	background-color: #4298d4
 }
 
 .breadcam_bg {
@@ -5287,7 +5293,7 @@ sup,
 sub,
 u,
 del {
-	color: #1f2b7b
+	color: #4298d4
 }
 
 .typography h1,
@@ -5399,25 +5405,25 @@ del {
 
 .genric-btn.primary {
 	color: #fff;
-	background: #1f2b7b;
+	background: #4298d4;
 	border: 1px solid transparent
 }
 
 .genric-btn.primary:hover {
-	color: #1f2b7b;
-	border: 1px solid #1f2b7b;
+	color: #4298d4;
+	border: 1px solid #4298d4;
 	background: #fff
 }
 
 .genric-btn.primary-border {
-	color: #1f2b7b;
-	border: 1px solid #1f2b7b;
+	color: #4298d4;
+	border: 1px solid #4298d4;
 	background: #fff
 }
 
 .genric-btn.primary-border:hover {
 	color: #fff;
-	background: #1f2b7b;
+	background: #4298d4;
 	border: 1px solid transparent
 }
 
@@ -5553,7 +5559,7 @@ del {
 .generic-blockquote {
 	padding: 30px 50px 30px 30px;
 	background: #f9f9ff;
-	border-left: 2px solid #1f2b7b
+	border-left: 2px solid #4298d4
 }
 
 .progress-table-wrap {
@@ -5683,7 +5689,7 @@ del {
 	position: absolute;
 	width: 14px;
 	height: 14px;
-	border: 3px solid #1f2b7b;
+	border: 3px solid #4298d4;
 	background: #fff;
 	top: 4px;
 	left: 0;
@@ -5696,7 +5702,7 @@ del {
 
 .ordered-list li {
 	list-style-type: decimal-leading-zero;
-	color: #1f2b7b;
+	color: #4298d4;
 	font-weight: 500;
 	line-height: 1.82em !important
 }
@@ -5709,7 +5715,7 @@ del {
 .ordered-list-alpha li {
 	margin-left: 30px;
 	list-style-type: lower-alpha;
-	color: #1f2b7b;
+	color: #4298d4;
 	font-weight: 500;
 	line-height: 1.82em !important
 }
@@ -5722,7 +5728,7 @@ del {
 .ordered-list-roman li {
 	margin-left: 30px;
 	list-style-type: lower-roman;
-	color: #1f2b7b;
+	color: #4298d4;
 	font-weight: 500;
 	line-height: 1.82em !important
 }
@@ -5794,7 +5800,7 @@ del {
 
 .single-input-primary:focus {
 	outline: none;
-	border: 1px solid #1f2b7b
+	border: 1px solid #4298d4
 }
 
 .single-input-accent {
@@ -5855,7 +5861,7 @@ del {
 	width: 15px;
 	height: 15px;
 	border-radius: 50%;
-	background: #1f2b7b;
+	background: #4298d4;
 	-webkit-transition: all 0.2s;
 	-moz-transition: all 0.2s;
 	-o-transition: all 0.2s;
@@ -5938,7 +5944,7 @@ del {
 }
 
 .primary-switch input:checked+label:before {
-	background: #1f2b7b
+	background: #4298d4
 }
 
 .confirm-switch {
@@ -6287,12 +6293,12 @@ del {
 }
 
 .default-select .nice-select .list .option.selected {
-	color: #1f2b7b;
+	color: #4298d4;
 	background: transparent
 }
 
 .default-select .nice-select .list .option:hover {
-	color: #1f2b7b;
+	color: #4298d4;
 	background: transparent
 }
 
@@ -6342,12 +6348,12 @@ del {
 }
 
 .form-select .nice-select .list .option.selected {
-	color: #1f2b7b;
+	color: #4298d4;
 	background: transparent
 }
 
 .form-select .nice-select .list .option:hover {
-	color: #1f2b7b;
+	color: #4298d4;
 	background: transparent
 }
 
@@ -6366,7 +6372,7 @@ del {
 
 .section-top-border {
 	padding: 50px 0;
-	border-top: 1px dotted #eee
+	
 }
 
 .mb-30 {
